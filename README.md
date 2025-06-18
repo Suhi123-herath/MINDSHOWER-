@@ -5,7 +5,7 @@ It helps users reflect, track moods, and feel better through simple, minimal des
 
 🔗 Try it out
 
-Live Demo (replace this with your real link)
+Live Demo 
 
 🚀 Features
 

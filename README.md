@@ -34,4 +34,4 @@ AI mood suggestions
 Notifications & storage
 
 Voice journaling
- 
+ https://creativecommons.org/licenses/by-nc/4.0/
